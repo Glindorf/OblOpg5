@@ -1,0 +1,16 @@
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.AssemblyInfoInputs.cache
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.AssemblyInfo.cs
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.csproj.CoreCompileInputs.cache
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.exe
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.deps.json
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.runtimeconfig.json
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.runtimeconfig.dev.json
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.dll
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg5.pdb
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg1.dll
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\OblOpg1.pdb
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.csproj.CopyComplete
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.dll
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.pdb
+C:\Code3Sem\OblOpg5\OblOpg5\obj\Debug\netcoreapp3.1\OblOpg5.genruntimeconfig.cache
+C:\Code3Sem\OblOpg5\OblOpg5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtGqnYZvX6p3GKekwOqwuAy8sN9Ns8rrXeKTwwCNlzB3XS1sbuqZ3Ft/58KCJpeEczUCCCY4YRavaXk5Pgapeg==",
+  "success": true,
+  "projectFilePath": "C:\\Code3Sem\\OblOpg5\\OblOpg5\\OblOpg5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mglin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
